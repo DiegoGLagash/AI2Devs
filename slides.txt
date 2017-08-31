@@ -1,0 +1,15 @@
+Que es el conocimiento?
+Es la capacidad de tener una representación de un evento/objeto externo.
+
+Que es el parendizaje?
+Es la capacidad de adquirir nuevas representaciones, idealmente más económica que los objetos representados.
+
+Que es la inteligencia?
+Es la capacidad de usar el conocimiento para atender nuevos escenarios de los cuales no había sido expuesto.
+
+Tom M. Mitchell dijo: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E."
+
+El aprendizaje se divide en 3 grandes escenarios:
+- Supervisado
+- No Supervisado
+- Por refuerzo
